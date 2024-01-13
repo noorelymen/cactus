@@ -16,7 +16,7 @@ Netlify: https://cactii.netlify.app/
   <li>CSS</li>
 </ul>
 
-## Image preview
+## Desktop preview
 
 <img width="1792" alt="preview" src="https://github.com/noorelymen/cactus/blob/d000415857571f9e944782811370c3c109be787d/preview.png">
 
