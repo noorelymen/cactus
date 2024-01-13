@@ -1,4 +1,4 @@
-<img width="1536" alt="Screenshot 2024-01-13 at 3 17 33 AM" src="https://github.com/noorelymen/cactus/assets/59196382/39dc0d26-79c4-4d0c-b293-f947412455cd"># Cacti & Succulents Store landing page concept
+# Cacti & Succulents Store landing page concept
 Designer: Anna Senkova
 
 ## Preview
@@ -15,7 +15,7 @@ Netlify: https://cactus.netlify.app/
 
 ## Image preview
 
-<img width="1792" alt="preview" src="">
+<img width="1792" alt="preview" src="https://github.com/noorelymen/cactus/blob/d000415857571f9e944782811370c3c109be787d/preview.png">
 
 
 
