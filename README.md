@@ -1,5 +1,9 @@
 # Cacti & Succulents Store landing page concept
-Designer: Anna Senkova
+
+<hr/>
+Designer credit: Anna Senkova
+Design link: https://dribbble.com/shots/6542941-Cacti-Succulents-Store-Web-site-Concept
+<hr/>
 
 ## Preview
 
