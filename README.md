@@ -5,7 +5,7 @@ Designer: Anna Senkova
 
 Github: https://noorelymen.github.io/cactus/
 <br/>
-Netlify: https://cactus.netlify.app/
+Netlify: https://cactii.netlify.app/
 
 ## Technologies used
 <ul>
